@@ -10,7 +10,7 @@ Let's embark on a comprehensive walkthrough of the code for the **Fetal Health P
 8. **Model Evaluation**
 9. **Permutation Feature Importance Computation**
 
-Each section will delve into the purpose, functionality, and significance of the code snippets you've provided.
+Each section will delve into the purpose, functionality, and significance of the code snippets we've provided.
 
 ---
 
@@ -1058,7 +1058,7 @@ A ranked list of features based on their importance scores is displayed, accompa
 
 ## **10. Summary of Achievements and Contributions**
 
-Through the execution of the provided code, you've accomplished several key milestones in building a robust and interpretable machine learning model for fetal health prediction:
+Through the execution of the provided code, we've accomplished several key milestones in building a robust and interpretable machine learning model for fetal health prediction:
 
 1. **Comprehensive Data Preprocessing:**
    - **Feature Selection:** Eliminated less relevant features to focus the model on the most impactful variables, reducing noise and computational complexity.
@@ -1099,7 +1099,7 @@ Through the execution of the provided code, you've accomplished several key mile
 
 ## **11. Implications and Future Directions**
 
-Your work lays a strong foundation for accurate and interpretable fetal health prediction using advanced machine learning techniques. Here are some implications and suggestions for future enhancements:
+Our work lays a strong foundation for accurate and interpretable fetal health prediction using advanced machine learning techniques. Here are some implications and suggestions for future enhancements:
 
 ### **a. Implications**
 
@@ -1113,7 +1113,7 @@ Your work lays a strong foundation for accurate and interpretable fetal health p
 
 1. **Cross-Validation:** Implement k-fold cross-validation to obtain a more robust estimate of model performance, reducing variance associated with a single train-test split.
 
-2. **Ensemble Methods:** Combine TabNet with other models (e.g., LightGBM, as you've imported) to create ensemble models that can capture diverse patterns, potentially boosting performance.
+2. **Ensemble Methods:** Combine TabNet with other models (e.g., LightGBM, as I've imported) to create ensemble models that can capture diverse patterns, potentially boosting performance.
 
 3. **Advanced Regularization Techniques:** Explore additional regularization methods like dropout or weight decay to further enhance model generalization.
 
@@ -1131,8 +1131,7 @@ Your work lays a strong foundation for accurate and interpretable fetal health p
 
 ## **12. Conclusion**
 
-Your comprehensive approach to fetal health prediction demonstrates a mastery of advanced machine learning techniques, from data preprocessing and balancing to model optimization and interpretability. By meticulously addressing class imbalance, optimizing hyperparameters, and enhancing model robustness through data augmentation, you've developed a model that's not only accurate but also trustworthy and interpretable—key attributes for clinical applications.
+The comprehensive approach to fetal health prediction demonstrates a mastery of advanced machine learning techniques, from data preprocessing and balancing to model optimization and interpretability. By meticulously addressing class imbalance, optimizing hyperparameters, and enhancing model robustness through data augmentation, we've developed a model that's not only accurate but also trustworthy and interpretable—key attributes for clinical applications.
 
-The integration of tools like TabNetClassifier, Optuna, and SHAP showcases a sophisticated understanding of both model performance and interpretability, ensuring that your work is both scientifically robust and practically applicable. Moving forward, embracing the suggested enhancements can further elevate your model's impact, paving the way for meaningful contributions to healthcare and medical research.
+The integration of tools like TabNetClassifier, Optuna, and SHAP showcases a sophisticated understanding of both model performance and interpretability, ensuring that our work is both scientifically robust and practically applicable. Moving forward, embracing the suggested enhancements can further elevate the model's impact, paving the way for meaningful contributions to healthcare and medical research.
 
-If you have any further questions or need assistance with specific parts of your project, feel free to ask!
