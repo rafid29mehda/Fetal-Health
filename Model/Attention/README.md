@@ -539,4 +539,4 @@ Enhancing TabNet's attention layers with permutation-based techniques and self-a
 
 **Final Thoughts:**
 
-Implementing advanced permutation and self-attention techniques within TabNet can significantly elevate our model's capabilities. These enhancements not only improve performance but also contribute to a deeper understanding of feature interactions, which is invaluable for applications requiring high interpretability, such as healthcare. Ensure that each modification is methodically tested and validated to maintain model integrity and performance.
+Implementing advanced permutation and self-attention techniques within TabNet can significantly elevate our model's capabilities. These enhancements not only improve performance but also contribute to a deeper understanding of feature interactions, which is invaluable for applications requiring high interpretability, such as healthcare. Ensure that each modification is methodically tested and validated to maintain the model integrity and performance.
