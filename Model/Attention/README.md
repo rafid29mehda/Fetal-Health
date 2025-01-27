@@ -519,7 +519,7 @@ Enhancing TabNet's attention layers with permutation-based techniques and self-a
 
 **Recommendations:**
 
-- **Start with Class Weights:** If handling class imbalance is your primary concern, begin with class weights as it's straightforward and effective.
+- **Start with Class Weights:** If handling class imbalance is our primary concern, begin with class weights as it's straightforward and effective.
 
 - **Gradually Implement Advanced Techniques:**
   - Begin by experimenting with permutation-based regularization.
