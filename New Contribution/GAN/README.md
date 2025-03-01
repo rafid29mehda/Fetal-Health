@@ -415,4 +415,4 @@ plt.show()
 4. Upload `fetal_health.csv` before Part 2.
 5. Adjust `study.best_params` in Part 7 with your actual values from part 2.
 
-This GAN approach, with its custom design and comparison to ADASYN, positions your work as a novel contribution. Let me know if you hit errors or need tweaks! What’s your next question?
+This GAN approach, with its custom design and comparison to ADASYN, positions your work as a novel contribution. Let me know if you hit errors or need tweaks! 
