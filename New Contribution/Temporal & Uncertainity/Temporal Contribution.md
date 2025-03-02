@@ -451,4 +451,4 @@ plt.show()
 - **Reproducibility**: Mention saved models (`ctgan_suspect_temporal.pkl`, `ctgan_pathological_temporal.pkl`) and GPU code in “Materials and Methods” for transparency.
 - **Statistical Significance**: Run McNemar’s test (previous code) to confirm 94% vs. 93%/95% is significant (p < 0.05).
 
-This documentary and writing guidance position your work as a cutting-edge contribution, ready for a Q1 journal like *Journal of Biomedical Informatics* or *Artificial Intelligence in Medicine*. Share any specific questions or additional outputs (e.g., ADASYN/CTGAN results), and I’ll refine further! What’s your next step?
+This documentary and writing guidance position your work as a cutting-edge contribution, ready for a Q1 journal like *Journal of Biomedical Informatics* or *Artificial Intelligence in Medicine*. Share any specific questions or additional outputs (e.g., ADASYN/CTGAN results), and I’ll refine further!
