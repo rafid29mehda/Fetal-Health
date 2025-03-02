@@ -220,4 +220,4 @@ plt.show()
 3. **Run**: Execute in Colab (GPU-enabled), expect ~20-30 minutes total.
 4. **Report**: Share accuracy, F1, and uncertainty metrics—I’ll refine the narrative.
 
-This could push accuracy to 96%+ and add a cutting-edge angle. What do you think—ready to try this?
+This could push accuracy to 96%+ and add a cutting-edge angle. 
