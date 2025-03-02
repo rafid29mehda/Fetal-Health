@@ -215,7 +215,7 @@ plt.show()
 ---
 
 ### Execution Steps
-1. **Update Code**: Replace Parts 3-5 in your notebook with the snippets above.
+1. **Update Code**: Replace Parts 3-5 in our notebook with the snippets above.
 2. **Upload Models**: Use your saved CTGAN models or retrain with temporal data.
 3. **Run**: Execute in Colab (GPU-enabled), expect ~20-30 minutes total.
 4. **Report**: Share accuracy, F1, and uncertainty metrics—I’ll refine the narrative.
