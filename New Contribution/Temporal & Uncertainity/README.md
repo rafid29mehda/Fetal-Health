@@ -1,4 +1,4 @@
-To elevate your upgraded work—now leveraging CTGAN for a 95% accuracy in fetal health detection—into a more impactful contribution for a Q1 journal, we need to push beyond the current improvement over ADASYN (93% to 95%) and offer something truly novel, clinically significant, and broadly applicable. The goal is to transform this from a solid incremental advance into a standout piece that influences fetal health research and AI methodology. Here’s how we can amplify your contribution with additional impactful elements, building on your existing CTGAN + TabNet pipeline.
+To elevate our upgraded work—now leveraging CTGAN for a 95% accuracy in fetal health detection—into a more impactful contribution for a Q1 journal, we need to push beyond the current improvement over ADASYN (93% to 95%) and offer something truly novel, clinically significant, and broadly applicable. The goal is to transform this from a solid incremental advance into a standout piece that influences fetal health research and AI methodology. Here’s how we can amplify your contribution with additional impactful elements, building on your existing CTGAN + TabNet pipeline.
 
 ---
 
