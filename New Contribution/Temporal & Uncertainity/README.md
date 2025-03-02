@@ -7,7 +7,7 @@ To elevate our upgraded work—now leveraging CTGAN for a 95% accuracy in fetal 
 2. **Temporal Dynamics**: Treat CTG data as time-series, adding a temporal layer (e.g., LSTM or Transformer) to capture sequential patterns, addressing a gap in static feature-based models.
 3. **Uncertainty Quantification**: Add uncertainty estimation to your predictions (e.g., Bayesian TabNet or Monte Carlo Dropout), providing confidence intervals for clinical decision-making.
 4. **Cross-Dataset Generalization**: Validate your CTGAN + TabNet approach on an external fetal health dataset, proving robustness and transferability.
-5. **Explainability Enhancement**: Integrate SHAP with temporal or multi-modal insights, linking features to clinical events (e.g., fetal distress onset), making your model a diagnostic tool beyond prediction.
+5. **Explainability Enhancement**: Integrate SHAP with temporal or multi-modal insights, linking features to clinical events (e.g., fetal distress onset), making our model a diagnostic tool beyond prediction.
 
 Given your dataset (static CTG features) and current tools (CTGAN, TabNet), the most feasible and impactful additions are **Temporal Dynamics** and **Uncertainty Quantification**, as they:
 - Leverage your existing 10-feature setup.
