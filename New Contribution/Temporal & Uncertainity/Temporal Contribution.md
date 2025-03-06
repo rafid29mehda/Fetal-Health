@@ -4,7 +4,7 @@ Below is a comprehensive documentary explaining each part of the final code from
 
 # Documentary for "Final Temporal Uncertainty Tabnet.ipynb"
 
-This document explains the structure, functionality, and significance of each part of your final code, which implements a "Temporal CTGAN + Uncertainty-Aware TabNet" framework for fetal health detection using Cardiotocogram (CTG) data. The code achieves 94% accuracy, with F1 scores of 0.92-0.96 and a mean prediction uncertainty of 0.2611, surpassing ADASYN (93%) and static CTGAN (95%). It leverages pseudo-time-series modeling, synthetic data generation with CTGAN, and uncertainty quantification, making it a novel contribution for a Q1 journal.
+This document explains the structure, functionality, and significance of each part of our final code, which implements a "Temporal CTGAN + Uncertainty-Aware TabNet" framework for fetal health detection using Cardiotocogram (CTG) data. The code achieves 94% accuracy, with F1 scores of 0.92-0.96 and a mean prediction uncertainty of 0.2611, surpassing ADASYN (93%) and static CTGAN (95%). It leverages pseudo-time-series modeling, synthetic data generation with CTGAN, and uncertainty quantification, making it a novel contribution for a Q1 journal.
 
 ---
 
