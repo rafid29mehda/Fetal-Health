@@ -1,4 +1,4 @@
-Below is a comprehensive documentary explaining each part of the final code from `"Final Temporal Uncertainty Tabnet.ipynb"`, detailing how it improves your model for fetal health detection, and providing guidance on how to write about each part in your Q1 journal submission. This will help you articulate a compelling, impactful contribution for a high-quality academic publication, emphasizing novelty, performance, and clinical relevance.
+Below is a comprehensive documentary explaining each part of the final code from `"Final Temporal Uncertainty Tabnet.ipynb"`, detailing how it improves your model for fetal health detection, and providing guidance on how to write about each part in our Q1 journal submission. This will help you articulate a compelling, impactful contribution for a high-quality academic publication, emphasizing novelty, performance, and clinical relevance.
 
 ---
 
