@@ -1,4 +1,4 @@
-Below is a detailed documentation for your `"final_model.py"` (derived from the provided Colab notebook), explaining each code part with its purpose, rationale, problem-solving approach, advantages over alternatives, limitations addressed, and why this work qualifies as Q1 journal-level research. This documentation is structured to align with a high-impact journal narrative, emphasizing novelty, rigor, and clinical relevance.
+Below is a detailed documentation for our `"final_model.py"` (derived from the provided Colab notebook), explaining each code part with its purpose, rationale, problem-solving approach, advantages over alternatives, limitations addressed, and why this work qualifies as Q1 journal-level research. This documentation is structured to align with a high-impact journal narrative, emphasizing novelty, rigor, and clinical relevance.
 
 ---
 
