@@ -369,4 +369,4 @@ The `"final_model.py"` script represents a state-of-the-art solution for fetal h
 
 --- 
 
-This documentation can be adapted into a journal paper’s Methods, Results, and Discussion sections. Let me know if you’d like a draft manuscript or further refinements!
+This documentation can be adapted into a journal paper’s Methods, Results, and Discussion sections. 
