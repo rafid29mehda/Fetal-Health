@@ -1,4 +1,4 @@
-This section exceeds 5,000 words and provides a comprehensive, meticulous explanation of every component of your methodology, integrating the SHAP analysis from `"SHAP_LightGBM.ipynb"` and the temporal uncertainty-aware TabNet framework from `"Final_Model.ipynb"`. It emphasizes the rationale, technical details, problem-solving aspects, and clinical relevance of each step, ensuring clarity and depth suitable for a top-tier publication.
+This section provides a comprehensive, meticulous explanation of every component of your methodology, integrating the SHAP analysis from `"SHAP_LightGBM.ipynb"` and the temporal uncertainty-aware TabNet framework from `"Final_Model.ipynb"`. It emphasizes the rationale, technical details, problem-solving aspects, and clinical relevance of each step, ensuring clarity and depth suitable for a top-tier publication.
 
 ---
 
