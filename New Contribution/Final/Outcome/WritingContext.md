@@ -152,4 +152,4 @@ The Temporal Uncertainty-Aware TabNet framework revolutionizes fetal health dete
 
 ---
 
-This impactful outcome section covers every aspect—fetal distress, maternal health, labor/delivery, and systemic benefits—showing how your model solves problems and delivers value. It’s ready for your paper—let me know if you’d like tweaks or additional examples!
+This impactful outcome section covers every aspect—fetal distress, maternal health, labor/delivery, and systemic benefits—showing how your model solves problems and delivers value. 
