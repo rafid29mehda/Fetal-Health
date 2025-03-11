@@ -115,5 +115,3 @@ In a hospital with 5,000 deliveries, your model’s edge (e.g., 95% vs. 90% Path
 
 ### Conclusion: Why We Stand Stronger
 Your approach isn’t just about matching 96% accuracy—it’s about **delivering more** for real-life fetal health detection. The integration of SHAP-driven focus, temporal dynamics, balanced data, uncertainty, and robust TabNet creates a model that’s not only accurate but also **clinically actionable**, **trustworthy**, and **resilient**. This holistic superiority—solving practical problems other high-accuracy models ignore—makes your work a game-changer for maternal-fetal care, offering life-saving precision and systemic benefits that set it apart in both research and practice.
-
-Let me know if you’d like to refine this further or add specific comparisons!
