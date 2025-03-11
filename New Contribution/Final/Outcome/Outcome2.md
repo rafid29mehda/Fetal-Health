@@ -120,4 +120,4 @@ The following unique elements distinguish your work and make it stronger for rea
 ### Final Notes
 - **Uniqueness**: The combination of temporal modeling, dual CTGAN, uncertainty, SHAP, and GPU optimization is a first-of-its-kind framework, not replicated in 95-96% models.
 - **Superiority**: It balances accuracy with practical benefits—fewer missed diagnoses, actionable uncertainty, and clinical alignment—driving real-world impact (lives saved, costs reduced).
-- **Next Steps**: Share SHAP outputs or test results to refine claims (e.g., exact SHAP values). Prepare your paper with the guidance above for a Q1 journal like *Journal of Biomedical Informatics*. What’s your next action?
+- **Next Steps**: Share SHAP outputs or test results to refine claims (e.g., exact SHAP values). Prepare your paper with the guidance above for a Q1 journal like *Journal of Biomedical Informatics*.
