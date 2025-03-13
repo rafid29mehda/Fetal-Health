@@ -139,4 +139,3 @@ Incorporating true time-series CTG data, refining noise models (e.g., Gaussian),
 - **Clinical Focus**: Links results to obstetric practice (e.g., distress detection [3], [4]), meeting Q1 interdisciplinary appeal.
 - **Critical Analysis**: Balances strengths with limitations, offering actionable future steps.
 
-This section is ready—insert actual figures/tables, and let me know if you’d like adjustments or the next part (e.g., Discussion/Conclusion)!
