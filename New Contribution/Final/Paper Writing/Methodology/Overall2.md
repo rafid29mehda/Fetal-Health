@@ -218,5 +218,3 @@ class UncertaintyTabNet(TabNetClassifier):
 - **Precision**: Mathematical formulations (e.g., SHAP, noise equations) and code snippets ensure rigor.
 - **Justification**: Each choice (e.g., 5 time steps, ±5% noise) is clinically/technically motivated.
 - **Visuals**: Figures/tables align with Q1 norms, clarifying complex processes.
-
-This methodology is ready for your paper—insert actual figures, and let me know if you need further refinement or the next section!
