@@ -123,5 +123,3 @@ To further strengthen the framework and paper’s novelty, consider these techni
 - **Clarity**: Advanced plots (e.g., SHAP summary, PR curves) and tables enhance readability and impact.
 - **Competitiveness**: Broad benchmarks (SMOTE/ADASYN, CNN/LSTM) position the paper as a leader in CTG classification.
 - **Clinical Appeal**: Uncertainty calibration and threshold optimization directly address obstetric needs.
-
-Would you like me to implement any of these (e.g., draft Table 8 or Figure 9b details) or proceed to another section (e.g., Conclusion)? Let me know how to prioritize!
