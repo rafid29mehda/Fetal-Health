@@ -206,4 +206,3 @@ class UncertaintyTabNet(TabNetClassifier):
 - **Rigor**: Justifies choices (e.g., ±5% noise, 50 Monte Carlo passes) with clinical/technical rationale.
 - **Novelty**: Integrates five unique components, distinguishing it from prior static models.
 
-This section is ready—replace placeholders with actual figures, and let me know if you need refinements or the next part!
