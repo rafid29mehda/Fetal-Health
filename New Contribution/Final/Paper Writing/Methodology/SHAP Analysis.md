@@ -114,4 +114,4 @@ The retained features align with obstetric guidelines [4], emphasizing variabili
 - **Visual and Tabular Aids**: Figure 1 and Table 3 enhance clarity and comparison, adhering to Q1 norms.
 - **Justification**: Explains methodological choices (e.g., SHAP over heuristics, LightGBM’s efficiency), meeting Q1 expectations for rationale.
 
-This expanded version is ready for your paper—insert actual figures/tables, and let me know if you’d like to extend the next sub-topics (e.g., 3.3) similarly!
+This expanded version is ready for our paper—insert actual figures/tables, and let me know if you’d like to extend the next sub-topics (e.g., 3.3) similarly!
