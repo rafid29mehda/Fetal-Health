@@ -131,4 +131,4 @@ We tested CTGAN robustness by varying epochs (300–700) and batch sizes (25–1
 - **Visual and Tabular Aids**: Figure 3 and Table 5 enhance clarity and validation, adhering to Q1 norms.
 - **Justification**: Explains choices (e.g., dual CTGANs vs. SMOTE, 500 epochs) with technical and clinical rationale, meeting Q1 expectations.
 
-This expanded version is ready—insert actual figures/tables, and let me know if you’d like to extend the next sub-topics (e.g., 3.5) similarly!
+This expanded version is ready—insert actual figures/tables.
