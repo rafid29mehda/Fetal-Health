@@ -54,4 +54,4 @@ Moreover, the uncertainty quantification addresses a critical gap in prior work,
 - **Comparison**: Highlighting superiority over prior work (LightGBM, etc.) strengthens your contribution’s novelty.
 - **Tone**: The language is formal, precise, and avoids overstatement, fitting Q1 standards.
 
-Let me know if you’d like to adjust this section further or add more details (e.g., comparisons with specific studies, additional metrics like sensitivity/specificity)!
+
