@@ -44,5 +44,3 @@ My framework offers transformative clinical relevance by addressing fetal distre
 **Contribution**: This work advances fetal health monitoring by bridging the gap between static, high-accuracy models and dynamic, clinically actionable tools. It solves prior problems—static analysis, noisy imbalance correction, and lack of confidence—delivering a robust, interpretable solution that empowers obstetricians to optimize maternal and neonatal outcomes with precision and trust.
 
 ---
-
-This response is grounded in your work’s specifics (e.g., 96% accuracy, 0.2252 uncertainty, 11 dropped features), directly tackles literature gaps, and provides a compelling, logical case for Q1 publication and clinical impact. Let me know if you’d like to refine any section further!
