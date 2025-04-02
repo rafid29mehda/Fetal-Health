@@ -121,4 +121,4 @@ If you’re using LaTeX, here’s how to format it:
 
 ---
 
-This algorithm succinctly captures your methodology, making it a standout feature of your Q1 submission. Let me know if you’d like adjustments or help integrating it with your visuals!
+This algorithm succinctly captures your methodology, making it a standout feature of our Q1 submission. Let me know if you’d like adjustments or help integrating it with your visuals!
