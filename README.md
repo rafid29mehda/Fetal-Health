@@ -57,4 +57,4 @@ Given the lack of overlap between datasets, we can use **Cross-Silo Federated Le
 ---
 
 ### **Conclusion**
-Federated Learning allows us to leverage insights from both **CTG** and **Ultrasound datasets** without requiring direct patient-level correspondence. By employing multi-task learning or ensemble methods, we can create a robust and privacy-preserving model. While challenges like feature mismatches and communication overhead exist, careful preprocessing and modern Federated Learning frameworks can mitigate these issues effectively.
+Federated Learning allows us to leverage insights from both **CTG** and **Ultrasound datasets** without requiring direct patient-level correspondence. By employing multi-task learning or ensemble methods, we can create a robust and privacy-preserving model. While challenges like feature mismatches and communication overhead exist, careful preprocessing and modern Federated Learning(FL) frameworks can mitigate these issues effectively.
