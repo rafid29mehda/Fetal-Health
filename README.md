@@ -14,7 +14,7 @@ Here’s how Federated Learning could be applied to our situation:
 ---
 
 ### **2. Architecture for Federated Learning with CTG and Ultrasound Datasets**
-Given the lack of overlap between datasets, you can use **Cross-Silo Federated Learning** with the following considerations:
+Given the lack of overlap between datasets, we can use **Cross-Silo Federated Learning** with the following considerations:
 
 #### **a. Multi-Task Federated Learning**
 - **Separate Models for Each Dataset:** Train a CTG model and an ultrasound model on their respective data.
