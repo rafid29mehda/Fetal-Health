@@ -2,7 +2,7 @@
 
 **Federated Learning (FL)** can be an effective approach for using **CTG** and **Ultrasound datasets**, even if they are from different patients and locations. Federated Learning is designed to train a model across distributed datasets without requiring data centralization, which is especially useful when datasets are sensitive or from distinct sources.
 
-Here’s how Federated Learning could be applied to your situation:
+Here’s how Federated Learning could be applied to our situation:
 
 ---
 
