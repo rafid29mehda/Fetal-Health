@@ -14,7 +14,7 @@ To stand out, introduce a new technique or significantly refine an existing one.
 - **Impact**: Improves interpretability and aligns predictions with medical knowledge, appealing to clinicians and researchers.
 
 #### b) Adversarial Feature Perturbation
-- **Idea**: Extend your permutation regularization into an *adversarial training framework*. Train TabNet to be robust against worst-case feature perturbations (e.g., simulating noise in CTG data due to sensor errors).
+- **Idea**: Extend our permutation regularization into an *adversarial training framework*. Train TabNet to be robust against worst-case feature perturbations (e.g., simulating noise in CTG data due to sensor errors).
 - **Why Unique?**: While permutation regularization adds randomness, adversarial training targets robustness against realistic disruptions, a rare approach in medical deep learning.
 - **Implementation**:
   - Use an adversarial loss term (e.g., via Fast Gradient Sign Method) to perturb high-impact features (identified by SHAP).
