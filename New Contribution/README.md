@@ -142,7 +142,7 @@ Here’s a roadmap to combine these enhancements:
 ### Expected Outcomes
 - **Accuracy**: Potentially exceed 96% with tuned TabNet + temporal data.
 - **Clinical Impact**: High Pathological recall (e.g., >95%) and clinician-validated explanations.
-- **Novelty**: Custom attention, adversarial robustness, and synthetic data set your work apart.
+- **Novelty**: Custom attention, adversarial robustness, and synthetic data set our work apart.
 - **Publication**: A 15–20 page paper with theory, experiments, and a public dataset could target journals like *Medical Image Analysis*, *IEEE Transactions on Biomedical Engineering*, or *Journal of Biomedical Informatics*.
 
 ---
