@@ -49,10 +49,10 @@ Q1 journals prioritize work that translates to real-world benefits. Enhance clin
   - Modify the loss function in TabNet (e.g., weighted cross-entropy with higher weight on Pathological class).
   - Use a custom metric (e.g., F2-score) in Optuna to prioritize recall over precision.
   - Compare with Part 2’s balanced accuracy approach.
-- **Impact**: Directly addresses a critical clinical need, making your work actionable for obstetricians.
+- **Impact**: Directly addresses a critical clinical need, making our work actionable for obstetricians.
 
 #### c) Clinician-in-the-Loop Evaluation
-- **Idea**: Conduct a qualitative study where obstetricians review your model’s predictions and SHAP explanations, providing feedback on trustworthiness and utility.
+- **Idea**: Conduct a qualitative study where obstetricians review our model’s predictions and SHAP explanations, providing feedback on trustworthiness and utility.
 - **Why Unique?**: Few AI studies involve direct clinician validation, bridging the gap between tech and practice.
 - **Implementation**:
   - Select 50–100 test cases, generate SHAP force plots, and present to 3–5 experts.
