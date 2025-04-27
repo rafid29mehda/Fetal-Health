@@ -77,7 +77,7 @@ Our SHAP analysis is strong, but Q1 work often demands deeper interpretability:
 - **Why Unique?**: Counterfactuals are cutting-edge in explainable AI and rarely applied to fetal health.
 - **Implementation**:
   - Use a library like `alibi` or custom code to perturb test instances and shift class predictions.
-  - Present examples in your paper (e.g., table of original vs. counterfactual features).
+  - Present examples in our paper (e.g., table of original vs. counterfactual features).
 - **Impact**: Provides actionable insights for clinicians to intervene (e.g., adjust monitoring).
 
 ---
@@ -86,7 +86,7 @@ Our SHAP analysis is strong, but Q1 work often demands deeper interpretability:
 Q1 journals value rigorous comparison and intellectual depth:
 
 #### a) Comprehensive Benchmarking
-- **Idea**: Compare your TabNet model against state-of-the-art methods beyond LightGBM (e.g., XGBoost, CNNs, Random Forest with focal loss) on both your dataset and an external one.
+- **Idea**: Compare our TabNet model against state-of-the-art methods beyond LightGBM (e.g., XGBoost, CNNs, Random Forest with focal loss) on both our dataset and an external one.
 - **Why Unique?**: A broad benchmark with statistical significance (e.g., Wilcoxon test) elevates your work above typical studies.
 - **Implementation**:
   - Train 5–7 models, report metrics (accuracy, AUC, F1 per class), and test significance.
