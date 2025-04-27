@@ -39,11 +39,11 @@ Q1 journals prioritize work that translates to real-world benefits. Enhance clin
 - **Why Unique?**: Most studies use a single dataset; external validation proves generalizability, a key Q1 criterion.
 - **Implementation**:
   - Source a secondary CTG dataset (e.g., via collaboration or public repositories).
-  - Fine-tune your TabNet model and report cross-dataset performance (e.g., accuracy, sensitivity for Pathological cases).
+  - Fine-tune our TabNet model and report cross-dataset performance (e.g., accuracy, sensitivity for Pathological cases).
 - **Impact**: Strengthens claims of robustness and clinical applicability.
 
 #### b) Sensitivity-Driven Optimization
-- **Idea**: Optimize your model specifically for *recall of the Pathological class* (class 3), as missing these cases has severe consequences in fetal health.
+- **Idea**: Optimize our model specifically for *recall of the Pathological class* (class 3), as missing these cases has severe consequences in fetal health.
 - **Why Unique?**: Many studies focus on overall accuracy; prioritizing sensitivity aligns with clinical priorities and differentiates your work.
 - **Implementation**:
   - Modify the loss function in TabNet (e.g., weighted cross-entropy with higher weight on Pathological class).
