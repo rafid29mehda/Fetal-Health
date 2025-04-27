@@ -23,7 +23,7 @@ To stand out, introduce a new technique or significantly refine an existing one.
 
 #### c) Temporal Dynamics Integration
 - **Idea**: If raw CTG time-series data is accessible (or can be simulated from features), integrate temporal modeling (e.g., LSTM or Transformer) with TabNet to capture sequential patterns in fetal heart rate.
-- **Why Unique?**: Your current features are static; adding temporal dynamics bridges the gap between raw signals and extracted features, a rare hybrid approach.
+- **Why Unique?**: Our current features are static; adding temporal dynamics bridges the gap between raw signals and extracted features, a rare hybrid approach.
 - **Implementation**:
   - Pretrain an LSTM on simulated CTG sequences, then feed its embeddings into TabNet.
   - Compare with static TabNet performance.
