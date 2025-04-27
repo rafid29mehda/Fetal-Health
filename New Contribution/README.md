@@ -111,16 +111,16 @@ Stand out by contributing beyond modeling:
 - **Idea**: Use a generative model (e.g., Variational Autoencoder or GAN) to create a synthetic CTG dataset, validated by clinicians, and release it publicly.
 - **Why Unique?**: Public medical datasets are scarce; a high-quality synthetic dataset would be widely cited.
 - **Implementation**:
-  - Train a GAN on your features, ensuring realistic distributions (e.g., match `histogram_variance` stats).
+  - Train a GAN on our features, ensuring realistic distributions (e.g., match `histogram_variance` stats).
   - Validate with statistical tests (e.g., KS test) and clinician review.
   - Host on a platform like Kaggle or GitHub.
-- **Impact**: Becomes a resource for the field, boosting your paper’s visibility.
+- **Impact**: Becomes a resource for the field, boosting our paper’s visibility.
 
 #### b) Real-Time Deployment Feasibility
-- **Idea**: Prototype your TabNet model in a real-time monitoring framework (e.g., process CTG streams in 1-second windows).
+- **Idea**: Prototype our TabNet model in a real-time monitoring framework (e.g., process CTG streams in 1-second windows).
 - **Why Unique?**: Most studies stop at offline evaluation; real-time feasibility is a practical leap.
 - **Implementation**:
-  - Simulate streaming data from your dataset.
+  - Simulate streaming data from our dataset.
   - Optimize TabNet for low-latency inference (e.g., PyTorch JIT).
   - Report latency and accuracy on a mock stream.
 - **Impact**: Demonstrates immediate clinical potential, a rare and compelling angle.
