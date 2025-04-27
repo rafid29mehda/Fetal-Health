@@ -62,13 +62,13 @@ Q1 journals prioritize work that translates to real-world benefits. Enhance clin
 ---
 
 ### 3. Enhanced Explainability
-Your SHAP analysis is strong, but Q1 work often demands deeper interpretability:
+Our SHAP analysis is strong, but Q1 work often demands deeper interpretability:
 
 #### a) SHAP Interaction Analysis
 - **Idea**: Extend SHAP to analyze *feature interactions* (e.g., how `histogram_variance` and `abnormal_short_term_variability` jointly affect predictions).
 - **Why Unique?**: SHAP interaction studies are rare in medical AI, offering richer insights than individual feature importance.
 - **Implementation**:
-  - Use `shap.interaction_values` on your TabNet model (requires adapting SHAP for PyTorch).
+  - Use `shap.interaction_values` on our TabNet model (requires adapting SHAP for PyTorch).
   - Visualize top interactions with heatmaps or dependence plots.
 - **Impact**: Uncovers synergistic effects, enhancing clinical understanding of fetal distress.
 
