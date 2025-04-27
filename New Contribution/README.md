@@ -35,7 +35,7 @@ To stand out, introduce a new technique or significantly refine an existing one.
 Q1 journals prioritize work that translates to real-world benefits. Enhance clinical relevance with:
 
 #### a) External Validation Dataset
-- **Idea**: Validate your model on an external dataset (e.g., from a different hospital or public CTG repository like PhysioNet).
+- **Idea**: Validate our model on an external dataset (e.g., from a different hospital or public CTG repository like PhysioNet).
 - **Why Unique?**: Most studies use a single dataset; external validation proves generalizability, a key Q1 criterion.
 - **Implementation**:
   - Source a secondary CTG dataset (e.g., via collaboration or public repositories).
@@ -149,6 +149,6 @@ Here’s a roadmap to combine these enhancements:
 
 ### Immediate Next Steps
 1. **Choose 2–3 Ideas**: Pick based on feasibility (e.g., custom attention + clinician validation + benchmarking).
-2. **Prototype**: Extend your Part 2 code (e.g., subclass `TabNetClassifier`, add SHAP interactions).
-3. **Ask Me**: I can help with code snippets, theoretical formulations, or paper structuring. What do you want to start with?
+2. **Prototype**: Extend our Part 2 code (e.g., subclass `TabNetClassifier`, add SHAP interactions).
+3. **Ask Me**: I can help with code snippets, theoretical formulations, or paper structuring. What do ou want to start with?
 
