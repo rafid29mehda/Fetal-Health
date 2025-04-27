@@ -87,11 +87,11 @@ Q1 journals value rigorous comparison and intellectual depth:
 
 #### a) Comprehensive Benchmarking
 - **Idea**: Compare our TabNet model against state-of-the-art methods beyond LightGBM (e.g., XGBoost, CNNs, Random Forest with focal loss) on both our dataset and an external one.
-- **Why Unique?**: A broad benchmark with statistical significance (e.g., Wilcoxon test) elevates your work above typical studies.
+- **Why Unique?**: A broad benchmark with statistical significance (e.g., Wilcoxon test) elevates our work above typical studies.
 - **Implementation**:
   - Train 5–7 models, report metrics (accuracy, AUC, F1 per class), and test significance.
   - Include a table comparing training time and inference speed.
-- **Impact**: Positions your TabNet approach as a top performer with evidence.
+- **Impact**: Positions our TabNet approach as a top performer with evidence.
 
 #### b) Theoretical Justification
 - **Idea**: Provide a mathematical or statistical rationale for why permutation regularization and attention improve performance (e.g., reduced overfitting, better feature focus).
@@ -99,7 +99,7 @@ Q1 journals value rigorous comparison and intellectual depth:
 - **Implementation**:
   - Analyze TabNet’s attention weights pre- and post-augmentation.
   - Derive bounds on generalization error reduction (e.g., via VC dimension or Rademacher complexity).
-  - Include a short theory section in your paper.
+  - Include a short theory section in our paper.
 - **Impact**: Adds intellectual rigor, appealing to academic reviewers.
 
 ---
